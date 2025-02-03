@@ -1,3 +1,3 @@
-print("Hello world")
-name="student"
+name="group"
 print("Hello "name)
+print("Hello student")
