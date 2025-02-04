@@ -1,3 +1,3 @@
-name="friend"
+first="friend"
 friend="student"
-print("Hello "name)
+print("Hello "first)
